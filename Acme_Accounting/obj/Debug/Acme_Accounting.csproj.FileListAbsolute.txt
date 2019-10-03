@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.exe.config
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.exe
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\bin\Debug\Acme_Accounting.pdb
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.exe
+C:\Users\Student\source\repos\Acme_Accounting\Acme_Accounting\obj\Debug\Acme_Accounting.pdb
