@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\bin\Debug\AICProgram.cs.exe.config
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\bin\Debug\AICProgram.cs.exe
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\bin\Debug\AICProgram.cs.pdb
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\obj\Debug\AICProgram.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\obj\Debug\AICProgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\obj\Debug\AICProgram.cs.exe
+C:\Users\Student\source\repos\AICProgram.cs\AICProgram.cs\obj\Debug\AICProgram.cs.pdb
