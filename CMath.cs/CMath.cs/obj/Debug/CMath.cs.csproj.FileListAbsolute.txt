@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\bin\Debug\CMath.cs.exe.config
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\bin\Debug\CMath.cs.exe
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\bin\Debug\CMath.cs.pdb
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\obj\Debug\CMath.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\obj\Debug\CMath.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\obj\Debug\CMath.cs.exe
+C:\Users\Student\source\repos\CMath.cs\CMath.cs\obj\Debug\CMath.cs.pdb
