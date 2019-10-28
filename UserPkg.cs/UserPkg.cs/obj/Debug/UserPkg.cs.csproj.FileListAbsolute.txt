@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\bin\Debug\UserPkg.cs.exe.config
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\bin\Debug\UserPkg.cs.exe
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\bin\Debug\UserPkg.cs.pdb
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\obj\Debug\UserPkg.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\obj\Debug\UserPkg.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\obj\Debug\UserPkg.cs.exe
+C:\Users\Student\source\repos\UserPkg.cs\UserPkg.cs\obj\Debug\UserPkg.cs.pdb
