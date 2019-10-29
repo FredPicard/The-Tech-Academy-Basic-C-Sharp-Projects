@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\bin\Debug\booleanWhile.cs.exe.config
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\bin\Debug\booleanWhile.cs.exe
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\bin\Debug\booleanWhile.cs.pdb
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\obj\Debug\booleanWhile.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\obj\Debug\booleanWhile.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\obj\Debug\booleanWhile.cs.exe
+C:\Users\Student\source\repos\booleanWhile.cs\booleanWhile.cs\obj\Debug\booleanWhile.cs.pdb
