@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\bin\Debug\stringsArraysIntergers.cs.exe.config
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\bin\Debug\stringsArraysIntergers.cs.exe
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\bin\Debug\stringsArraysIntergers.cs.pdb
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\obj\Debug\stringsArraysIntergers.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\obj\Debug\stringsArraysIntergers.cs.exe
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\obj\Debug\stringsArraysIntergers.cs.pdb
+C:\Users\Student\source\repos\stringsArraysIntergers.cs\stringsArraysIntergers.cs\obj\Debug\stringsArraysIntergers.cs.csprojAssemblyReference.cache
