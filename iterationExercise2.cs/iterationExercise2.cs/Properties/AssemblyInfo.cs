@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("iterationExercise.cs")]
+[assembly: AssemblyTitle("iterationExercise2.cs")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("iterationExercise.cs")]
+[assembly: AssemblyProduct("iterationExercise2.cs")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8e3dffbb-cfd4-4d6d-8f58-6b2595317b25")]
+[assembly: Guid("3d1955fc-f105-45ad-9604-09b106b14f2f")]
 
 // Version information for an assembly consists of the following four values:
 //

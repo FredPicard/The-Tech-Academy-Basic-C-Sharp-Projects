@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8E3DFFBB-CFD4-4D6D-8F58-6B2595317B25}</ProjectGuid>
+    <ProjectGuid>{3D1955FC-F105-45AD-9604-09B106B14F2F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>iterationExercise.cs</RootNamespace>
-    <AssemblyName>iterationExercise.cs</AssemblyName>
+    <RootNamespace>iterationExercise2.cs</RootNamespace>
+    <AssemblyName>iterationExercise2.cs</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

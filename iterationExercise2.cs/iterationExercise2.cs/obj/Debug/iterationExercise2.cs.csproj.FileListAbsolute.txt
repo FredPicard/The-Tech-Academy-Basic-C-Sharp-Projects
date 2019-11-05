@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\bin\Debug\iterationExercise2.cs.exe.config
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\bin\Debug\iterationExercise2.cs.exe
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\bin\Debug\iterationExercise2.cs.pdb
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\obj\Debug\iterationExercise2.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\obj\Debug\iterationExercise2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\obj\Debug\iterationExercise2.cs.exe
+C:\Users\Student\source\repos\iterationExercise2.cs\iterationExercise2.cs\obj\Debug\iterationExercise2.cs.pdb
