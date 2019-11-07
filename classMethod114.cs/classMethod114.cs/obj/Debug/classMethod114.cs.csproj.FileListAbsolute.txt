@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\obj\Debug\classMethod114.cs.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\obj\Debug\classMethod114.cs.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\bin\Debug\classMethod114.cs.exe.config
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\bin\Debug\classMethod114.cs.exe
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\bin\Debug\classMethod114.cs.pdb
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\obj\Debug\classMethod114.cs.exe
+C:\Users\Student\source\repos\classMethod114.cs\classMethod114.cs\obj\Debug\classMethod114.cs.pdb
