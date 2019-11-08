@@ -8,27 +8,29 @@ namespace classMethod114.cs
 {
     class Math1
     {
-     static  public void Number( int num1)
+
+      
+       public int Number(int num1)
         {
-            Console.WriteLine(num1 * 12);
-           
-        }
-          
-       static public void get( decimal num2)
-        {
-            Console.WriteLine( num2 / 5);
+            return (num1 * 12);
+
         }
 
-        static public void Convert( int num3)
+        public int Number(decimal num2)
         {
-            Console.WriteLine( num3 * 5 );
+            return Convert.ToInt32(num2 + 5);
         }
 
-
+        public int Number(string num3)
+        {
+            return Convert.ToInt32(num3) * 5;
+        }
 
 
 
 
 
     }
+
+    
 }

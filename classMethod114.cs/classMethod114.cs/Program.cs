@@ -11,14 +11,15 @@ namespace classMethod114.cs
         static void Main(string[] args)
         {
             Math1 math = new Math1();
+           
 
-            Math1.Number(num1: 12);
 
-            Math1.get(num2: 12);
-
+            int num1 = 12;
+            decimal num2 = 5.5m;
             string num3 = "100";
-            int value = Convert.ToInt32(num3);
-            Math1.Convert(value);
+            Console.WriteLine(math.Number(num1 ));
+            Console.WriteLine(math.Number(num2));
+            Console.WriteLine(math.Number(num3)) ;
             Console.ReadLine();
                 
         }
