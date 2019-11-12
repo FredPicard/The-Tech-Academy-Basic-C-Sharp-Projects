@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\classMethod120\classMethod120\bin\Debug\classMethod120.exe.config
+C:\Users\Student\source\repos\classMethod120\classMethod120\bin\Debug\classMethod120.exe
+C:\Users\Student\source\repos\classMethod120\classMethod120\bin\Debug\classMethod120.pdb
+C:\Users\Student\source\repos\classMethod120\classMethod120\obj\Debug\classMethod120.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\classMethod120\classMethod120\obj\Debug\classMethod120.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\classMethod120\classMethod120\obj\Debug\classMethod120.exe
+C:\Users\Student\source\repos\classMethod120\classMethod120\obj\Debug\classMethod120.pdb
