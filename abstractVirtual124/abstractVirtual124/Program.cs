@@ -10,15 +10,21 @@ namespace abstractVirtual124
     {
         static void Main(string[] args)
         {
+
             Person person = new Employee();
             person.FirstName = "Sample";
             person.LastName = "Student";
             person.SayName();
 
+
+
+            IQuittable quit = new Employee();
+            quit.Quit();
+
+
+
+
             Console.ReadLine();
         }
-       
-
     }
-    }
-
+}

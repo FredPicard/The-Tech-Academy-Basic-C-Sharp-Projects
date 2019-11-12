@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace abstractVirtual124
 {
-    class Employee : Person
+    class Employee : Person, IQuittable
     {
+
+        
 
         public new void SayName()
         {
@@ -15,6 +17,9 @@ namespace abstractVirtual124
            
         }
 
-
+       public void  Quit()
+        {
+         
+        }
     }
 }
