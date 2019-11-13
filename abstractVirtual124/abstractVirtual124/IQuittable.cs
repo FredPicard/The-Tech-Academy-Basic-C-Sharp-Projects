@@ -8,7 +8,7 @@ namespace abstractVirtual124
 {
     interface IQuittable
     {
-        void  Quit();
+        void  Quittable();
     }
     
 }

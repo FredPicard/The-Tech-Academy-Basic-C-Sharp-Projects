@@ -12,16 +12,23 @@ namespace abstractVirtual124
         {
 
             Person person = new Employee();
+            Employee employee = new Employee();
             person.FirstName = "Sample";
             person.LastName = "Student";
-            person.SayName();
+            employee.Id = 6;
+          
 
+           // person.SayName();
 
 
             IQuittable quit = new Employee();
-            quit.Quit();
+            quit.Quittable();
 
 
+
+            Employee E1 = new Employee() { Id = 5 };
+            Employee E2 = new Employee() { Id = 5 };
+            Console.WriteLine(E1 == E2);
 
 
             Console.ReadLine();
