@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\struct137\struct137\bin\Debug\struct137.exe.config
+C:\Users\Student\source\repos\struct137\struct137\bin\Debug\struct137.exe
+C:\Users\Student\source\repos\struct137\struct137\bin\Debug\struct137.pdb
+C:\Users\Student\source\repos\struct137\struct137\obj\Debug\struct137.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\struct137\struct137\obj\Debug\struct137.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\struct137\struct137\obj\Debug\struct137.exe
+C:\Users\Student\source\repos\struct137\struct137\obj\Debug\struct137.pdb
