@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\generic131\generic131\obj\Debug\generic131.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\generic131\generic131\obj\Debug\generic131.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\generic131\generic131\bin\Debug\generic131.exe.config
+C:\Users\Student\source\repos\generic131\generic131\bin\Debug\generic131.exe
+C:\Users\Student\source\repos\generic131\generic131\bin\Debug\generic131.pdb
+C:\Users\Student\source\repos\generic131\generic131\obj\Debug\generic131.exe
+C:\Users\Student\source\repos\generic131\generic131\obj\Debug\generic131.pdb
