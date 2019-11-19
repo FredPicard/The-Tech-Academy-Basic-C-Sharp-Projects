@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\FileIO154\FileIO154\bin\Debug\FileIO154.exe.config
+C:\Users\Student\source\repos\FileIO154\FileIO154\bin\Debug\FileIO154.exe
+C:\Users\Student\source\repos\FileIO154\FileIO154\bin\Debug\FileIO154.pdb
+C:\Users\Student\source\repos\FileIO154\FileIO154\obj\Debug\FileIO154.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\FileIO154\FileIO154\obj\Debug\FileIO154.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\FileIO154\FileIO154\obj\Debug\FileIO154.exe
+C:\Users\Student\source\repos\FileIO154\FileIO154\obj\Debug\FileIO154.pdb
