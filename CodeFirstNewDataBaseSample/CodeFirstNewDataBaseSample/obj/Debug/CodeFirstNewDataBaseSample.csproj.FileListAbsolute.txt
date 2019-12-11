@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\CodeFirstNewDataBaseSample.exe.config
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\CodeFirstNewDataBaseSample.exe
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\CodeFirstNewDataBaseSample.pdb
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\EntityFramework.dll
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\EntityFramework.xml
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.csproj.CopyComplete
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.exe
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.pdb
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.Migrations.InitialCreate.resources
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.Migrations.AddUrl.resources
+C:\Users\Student\source\repos\CodeFirstNewDataBaseSample\CodeFirstNewDataBaseSample\obj\Debug\CodeFirstNewDataBaseSample.Migrations.AddUser.resources
